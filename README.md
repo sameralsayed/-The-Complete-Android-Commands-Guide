@@ -3,6 +3,8 @@
 [![Android](https://img.shields.io/badge/Android-ADB-green?logo=android)](https://developer.android.com/studio/command-line/adb)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+[![by SAMER SAEID ♥️](https://img.shields.io/badge/by-SAMER%20SAEID%20%E2%99%A5%EF%B8%8F-red)](https://bio.link/samer)
+
 ## 📖 Description
 A **comprehensive reference** for essential Android commands — from ADB (Android Debug Bridge) to fastboot and shell utilities. Whether you're a developer, power user, or tester, this guide helps you control devices, install apps, debug, and automate tasks with practical examples and tutorials.
 
